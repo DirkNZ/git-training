@@ -1,1 +1,3 @@
 Making some changes to the first doc.
+
+Added some changes direct from github
